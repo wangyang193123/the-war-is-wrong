@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\bin\Debug\WorldWar3.exe.config
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\bin\Debug\WorldWar3.exe
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\bin\Debug\WorldWar3.pdb
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWarThree.Form1.resources
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.exe
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.pdb
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\vote\WorldWar3\WorldWarThree\obj\Debug\WorldWar3.csproj.CopyComplete
