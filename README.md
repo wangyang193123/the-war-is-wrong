@@ -19,3 +19,10 @@ The software can download the release version, or you can compile it yourself. P
  программное обеспечение может загрузить release версия, или вы можете сами скомпилировать, пожалуйста, проголосуйте за вашу сторону, бит будет регистрировать события, и оставить позади, чтобы судить, что пожертвования будут использованы на реконструкцию Украины, гуманитарную помощь, пожертвования не военным организациям, против всех актов насилия и войны. 
  
  软件可以下载release版本，或者你可以自己编译，请投票给你支持的一方，比特币会记录这次事件，并留给后人评判，捐款将用于乌克兰重建，人道主义援助，捐款不会给军事组织，反对一切暴力及战争行为。
+ 
+ 
+3，how to vote:
+
+If you support the US side, please vote for
+If you support Russia side, please vote for
+If you support Ukraine, please vote for
