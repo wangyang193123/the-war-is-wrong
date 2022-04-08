@@ -1,1 +1,2 @@
 # the-war-is-wrong
+I hope the Russian Ukrainian war will end as soon as possible, otherwise it may trigger the Third World War，The media reports are political, and most people's votes can reflect the actual situation. I also hope bitcoin can record this event. The more wars, the further destruction of mankind. The bitcoin voted this time will be donated to the reconstruction of post-war Ukraine. I do not intend to donate bitcoin to the army of any party.
