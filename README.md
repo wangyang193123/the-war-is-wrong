@@ -23,6 +23,6 @@ The software can download the release version, or you can compile it yourself. P
  
 3，how to vote:
 
-If you support the US side, please vote for
-If you support Russia side, please vote for
-If you support Ukraine, please vote for
+If you support the US side, please vote for：1USAsHnURGSWxJp5F7yw4XGx7CmmdytYo                    
+If you support Russia side, please vote for：1RUSzaRGiQYuRXbJV8cqekc6CwyjuWM6q                     
+If you support Ukraine, please vote for：1UKRb2U5f9S8dCKWY5SPSfmYiqTqMwhhX                     
